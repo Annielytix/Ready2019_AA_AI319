@@ -39,7 +39,7 @@ Thirdly, you should have experience with the portal and be able to create resour
 Challenges - TBD (links outdated being updated as of 11/13/2018)
 
 
-0. Start by following the steps in the [Setup Guide](Setup.pdf) to provision your Azure environment and fork the [labfiles](DAT202.3x-databricks.zip) used in the challenges.
+0. Start by following the steps in the [Setup Guide](Setup.pdf) to provision your Azure environment and fork the [labfiles](DatabricksMLAdvanced.zip) used in the challenges.
 
 1. [Challenge 1 - Exploring Data with Spark](Lab%201%20-%20Exploring%20Data%20with%20Spark.pdf).
 2. [Challenge 2 - Building Supervised Learning Models](Lab%202%20-%20Building%20Supervised%20Learning%20Models.pdf).
