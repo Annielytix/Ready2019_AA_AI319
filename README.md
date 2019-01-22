@@ -1,8 +1,3 @@
-# WTH Advanced Azure Databricks
-### Prepared by Laura Edell
-
-_What the Hack Challenge format of the Advanced Databricks Workshop_
-
 # Welcome
 
 Welcome to Ready 2019 Advanced Databricks Challenge. We will focus on hands-on activities that develop proficiency in advanced Databricks concepts such as data exploration using Spark, building Supervised & Unsupervised Learning Models, Evaluating Models and using advanced libraries like MMLSpark. These challenges assume an introductory to intermediate knowledge of Azure Databricks, and if this is not the case, please spend time working through the Introduction to Databricks challenges first.
@@ -39,7 +34,7 @@ Thirdly, you should have experience with the portal and be able to create resour
 Challenges - TBD (links outdated being updated as of 11/13/2018)
 
 
-0. Start by following the steps in the [Setup Guide](Setup.pdf) to provision your Azure environment and fork the [labfiles](DatabricksMLAdvanced.zip) used in the challenges.
+0. Start by following the steps in the [Setup Guide](Setup.pdf) to provision your Azure environment and fork the [labfiles](DAT202.3x-databricks.zip) used in the challenges.
 
 1. [Challenge 1 - Exploring Data with Spark](Lab%201%20-%20Exploring%20Data%20with%20Spark.pdf).
 2. [Challenge 2 - Building Supervised Learning Models](Lab%202%20-%20Building%20Supervised%20Learning%20Models.pdf).
@@ -58,6 +53,5 @@ Challenges - TBD (links outdated being updated as of 11/13/2018)
   -  Create Channel within Teams per Table
   -  SWAG given for most helpful tables, team mates (not those who complete challenges fastest or first)
   -  Q&A and Feedback 
-
 
 
