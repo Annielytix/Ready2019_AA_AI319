@@ -35,14 +35,14 @@ Challenges - TBD (links outdated being updated as of 11/13/2018)
 
 
 0. Start by following the steps in the [Setup Guide](Setup.pdf) to provision your Azure environment and fork the [labfiles](DatabricksMLAdvanced.zip) used in the challenges.
-
+0. [Challenge 0 - Administration](administration.zip). **
 1. [Challenge 1 - Exploring Data with Spark](Lab%201%20-%20Exploring%20Data%20with%20Spark.pdf).
 2. [Challenge 2 - Building Supervised Learning Models](Lab%202%20-%20Building%20Supervised%20Learning%20Models.pdf).
 3. [Challenge 3 - Evaluating Supervised Learning Models](Lab%203%20-%20Evaluating%20Supervised%20Learning%20Models.pdf).
 4. [Challenge 4 - Recommenders and Clustering](Lab%204%20-%20Recommenders%20and%20Clustering.pdf). 
 5. [Challenge 5 - Using the MML Spark Library](Lab%205%20-%20Using%20the%20MML%20Spark%20Library.pdf)
 
-  
+  **Please note: you do not need to run through Admin if you are an attendee. The Challenge 0 Administration guide is to help Microsoft FTE facilitate this workshop with their customers after the fact.**
 
 
 
