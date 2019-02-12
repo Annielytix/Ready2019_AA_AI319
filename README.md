@@ -41,7 +41,7 @@ Thirdly, you should have experience with the portal and be able to create resour
 2. [Challenge 2 - Building Supervised Learning Models](Lab%202%20-%20Building%20Supervised%20Learning%20Models.pdf).
 3. [Challenge 3 - Evaluating Supervised Learning Models](Lab%203%20-%20Evaluating%20Supervised%20Learning%20Models.pdf).
 4. [Challenge 4 - Recommenders and Clustering](Lab%204%20-%20Recommenders%20and%20Clustering.pdf). 
-5. [Challenge 5 - Using the MML Spark Library](Lab%205%20-%20Using%20the%20MML%20Spark%20Library.pdf)
+5. [Challenge 5 - Using the MMLSpark Library](Lab%205%20-%20Using%20the%20MMLSpark%20Library.pdf)
 
   ** **Please note: you do not need to run through Admin if you are an **attendee of Ready**. 
   
