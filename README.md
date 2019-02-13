@@ -35,7 +35,7 @@ Thirdly, you should have experience with the portal and be able to create resour
 [Business Case I - Azure Databricks
 
 
-0. Start by following the steps in the [Setup Guide](Setup.pdf) to provision your Azure environment and fork both the [labs](DatabricksMLAdvanced.zip) and the [notebooks](labs_319.zip) used in the challenges.
+0. Start by following the steps in the [Setup Guide](Setup%20Guide.pdf) to provision your Azure environment and fork both the [labs](DatabricksMLAdvanced.zip) and the [notebooks](labs_319.zip) used in the challenges.
 0. [Challenge 0 - Administration](administration.dbc). ****Please note: you do not need to run through Admin if you are an **attendee of Ready**(see note below for when to use this Databricks Archive). 
 1. [Challenge 1 - Exploring Data with Spark](Lab%201%20-%20Exploring%20Data%20with%20Spark.pdf).
 2. [Challenge 2 - Building Supervised Learning Models](Lab%202%20-%20Building%20Supervised%20Learning%20Models.pdf).
