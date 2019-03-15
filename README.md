@@ -27,7 +27,7 @@ Secondly, you should have some experience with Azure Databricks and the core con
 
 Thirdly, you should have experience with the portal and be able to create resources (and spend money) on Azure. We will not be providing Azure passes for this workshop.
 
-For fun, I have included a [EU soccer example (.DBC)](european-soccer.dbc) as well as a [Retail Fashion example](https://github.com/annedroid/Ready2019_AA_AI319/blob/master/ChallengeExCr_%20Tensorflow%20using%20Fashion.ipynb) and by popular demand, a Pandas UDF Benchmark notebook to help you get started with your [User Defined Functions with Pandas](https://github.com/annedroid/Ready2019_AA_AI319/blob/master/Pandas%20UDFs%20Benchmark.ipynb). Please let me know if you have any questions.
+For fun, I have included a [EU soccer example (.DBC)](european-soccer-events.dbc) as well as a [Retail Fashion example](https://github.com/annedroid/Ready2019_AA_AI319/blob/master/ChallengeExCr_%20Tensorflow%20using%20Fashion.ipynb) and by popular demand, a Pandas UDF Benchmark notebook to help you get started with your [User Defined Functions with Pandas](https://github.com/annedroid/Ready2019_AA_AI319/blob/master/Pandas%20UDFs%20Benchmark.ipynb). Please let me know if you have any questions.
  
 
 # Challenges
